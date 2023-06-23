@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "806957279821",
+    "project_id": "firelit-14cf7",
+    "storage_bucket": "firelit-14cf7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806957279821:android:744f4bebebbb54b9024a04",
+        "android_client_info": {
+          "package_name": "com.example.flut_fire1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806957279821-odn07ql1tq3qlm7ot8vf958er0jatpte.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCztDcUms7IYevEn8gVBg6eEeZFAj2bWWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806957279821-odn07ql1tq3qlm7ot8vf958er0jatpte.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
